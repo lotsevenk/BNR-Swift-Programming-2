@@ -23,7 +23,10 @@ class Monster {
             town?.population = newVictimPool
         }
     }
-    init(town: Town?, monsterName: String) {
+    required init?(town: Town?, monsterName: String) {
+        guard monsterName.characters.count > 0 else {
+            return nil
+        }
         self.town = town
         name = monsterName
     }

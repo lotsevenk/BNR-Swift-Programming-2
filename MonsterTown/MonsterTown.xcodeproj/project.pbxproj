@@ -10,7 +10,6 @@
 		A0FEB3CD1F791AC40076E969 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FEB3CC1F791AC40076E969 /* main.swift */; };
 		A0FEB3D41F791B0D0076E969 /* Town.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FEB3D31F791B0D0076E969 /* Town.swift */; };
 		A0FEB3D61F791B380076E969 /* Monster.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FEB3D51F791B380076E969 /* Monster.swift */; };
-		A0FEB3D81F791B660076E969 /* Vampire.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FEB3D71F791B660076E969 /* Vampire.swift */; };
 		A0FEB3DA1F791B8D0076E969 /* Zombie.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0FEB3D91F791B8D0076E969 /* Zombie.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,7 +30,6 @@
 		A0FEB3CC1F791AC40076E969 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A0FEB3D31F791B0D0076E969 /* Town.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Town.swift; sourceTree = "<group>"; };
 		A0FEB3D51F791B380076E969 /* Monster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Monster.swift; sourceTree = "<group>"; };
-		A0FEB3D71F791B660076E969 /* Vampire.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vampire.swift; sourceTree = "<group>"; };
 		A0FEB3D91F791B8D0076E969 /* Zombie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zombie.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -68,7 +66,6 @@
 				A0FEB3CC1F791AC40076E969 /* main.swift */,
 				A0FEB3D31F791B0D0076E969 /* Town.swift */,
 				A0FEB3D51F791B380076E969 /* Monster.swift */,
-				A0FEB3D71F791B660076E969 /* Vampire.swift */,
 				A0FEB3D91F791B8D0076E969 /* Zombie.swift */,
 			);
 			path = MonsterTown;
@@ -132,7 +129,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A0FEB3D81F791B660076E969 /* Vampire.swift in Sources */,
 				A0FEB3CD1F791AC40076E969 /* main.swift in Sources */,
 				A0FEB3D61F791B380076E969 /* Monster.swift in Sources */,
 				A0FEB3D41F791B0D0076E969 /* Town.swift in Sources */,
